@@ -149,7 +149,26 @@ strings.xml
 
 <img width="1917" height="1079" alt="Screenshot 2025-09-10 100323" src="https://github.com/user-attachments/assets/3cc9fcdb-05ed-4db6-85c8-49b2d1f6253f" />
 
-![WhatsApp Image 2025-09-10 at 10 05 09_97274880](https://github.com/user-attachments/assets/78487d20-55b8-40de-b830-61f3a2639452) ![WhatsApp Image 2025-09-10 at 10 05 09_9b20657f](https://github.com/user-attachments/assets/0643eae3-7501-4ce5-8885-38ef0d0144da) ![WhatsApp Image 2025-09-10 at 10 05 10_f192b7ac](https://github.com/user-attachments/assets/c222c6c7-5163-4002-be58-f62f7cbaa70f)  ![WhatsApp Image 2025-09-10 at 10 05 10_17480b3f](https://github.com/user-attachments/assets/374b0e1b-0f69-4a34-ab3b-a0f511e8012d)  ![WhatsApp Image 2025-09-10 at 10 05 08_3632d692](https://github.com/user-attachments/assets/423f7472-949b-492f-9538-392121782113)
+OnResume
+
+<img width="1917" height="1079" alt="Untitled design" src="https://github.com/user-attachments/assets/c5ea09b0-774e-4005-bd41-f8ce99e3495e" />
+
+OnStart
+
+<img width="1917" height="1079" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/b8ac763f-5b2a-45f7-92e9-38c0a0283dd6" />
+
+OnRestarted
+
+<img width="1917" height="1079" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/cf51e8f1-0b99-4b6e-b380-f475935702b7" />
+
+OnStop
+
+<img width="1917" height="1079" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/5266f1c4-da5b-428d-8bc2-fab896999f9d" />
+
+OnPause
+
+<img width="1917" height="1079" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/c230b24d-134a-42e6-9b07-fd7132974f71" />
+
 
 
 ## RESULT
