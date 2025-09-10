@@ -146,17 +146,10 @@ strings.xml
 ```
 <img width="1918" height="1078" alt="Screenshot 2025-09-10 100313" src="https://github.com/user-attachments/assets/f7924171-5a15-4b2f-a060-0b1dc8574fbb" />
 
+
 <img width="1917" height="1079" alt="Screenshot 2025-09-10 100323" src="https://github.com/user-attachments/assets/3cc9fcdb-05ed-4db6-85c8-49b2d1f6253f" />
 
-![WhatsApp Image 2025-09-10 at 10 05 09_97274880](https://github.com/user-attachments/assets/78487d20-55b8-40de-b830-61f3a2639452)
-
-![WhatsApp Image 2025-09-10 at 10 05 09_9b20657f](https://github.com/user-attachments/assets/0643eae3-7501-4ce5-8885-38ef0d0144da)
-
-![WhatsApp Image 2025-09-10 at 10 05 10_f192b7ac](https://github.com/user-attachments/assets/c222c6c7-5163-4002-be58-f62f7cbaa70f)
-
-![WhatsApp Image 2025-09-10 at 10 05 10_17480b3f](https://github.com/user-attachments/assets/374b0e1b-0f69-4a34-ab3b-a0f511e8012d)
-
-![WhatsApp Image 2025-09-10 at 10 05 08_3632d692](https://github.com/user-attachments/assets/423f7472-949b-492f-9538-392121782113)
+![WhatsApp Image 2025-09-10 at 10 05 09_97274880](https://github.com/user-attachments/assets/78487d20-55b8-40de-b830-61f3a2639452) ![WhatsApp Image 2025-09-10 at 10 05 09_9b20657f](https://github.com/user-attachments/assets/0643eae3-7501-4ce5-8885-38ef0d0144da) ![WhatsApp Image 2025-09-10 at 10 05 10_f192b7ac](https://github.com/user-attachments/assets/c222c6c7-5163-4002-be58-f62f7cbaa70f)  ![WhatsApp Image 2025-09-10 at 10 05 10_17480b3f](https://github.com/user-attachments/assets/374b0e1b-0f69-4a34-ab3b-a0f511e8012d)  ![WhatsApp Image 2025-09-10 at 10 05 08_3632d692](https://github.com/user-attachments/assets/423f7472-949b-492f-9538-392121782113)
 
 
 ## RESULT
